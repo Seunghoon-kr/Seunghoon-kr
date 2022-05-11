@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Seunghoon Han
 - 👀 I’m interested in AI Robotics
 - 🌱 I’m currently learning ROS2 and Reinforce Learning
-- 📫 How to reach me
+- 📫 seunghoonkr.12@gmail.com
+
 <!---
 - 💞️ I’m looking to collaborate on ...
  ...
