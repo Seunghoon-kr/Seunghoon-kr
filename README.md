@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI Robotics
 - 🌱 I’m currently learning ROS2 and Reinforce Learning
 - 📫 contact : seunghoonkr.12@gmail.com
-
+- #Python
 <!---
 - 💞️ I’m looking to collaborate on ...
  ...
